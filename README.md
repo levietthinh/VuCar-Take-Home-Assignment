@@ -54,7 +54,5 @@ pip install -r requirements.txt
 4. **Run the project**:
    - python run_ui.py
 
-**Note**: This system is specifically designed for the Vietnamese car market and uses real market data to provide accurate, localized insights. 
-=======
 # VuCar-Take-Home-Assignment
 Design and Prototype a “Car Value Insightsˮ Feature for Vietnamese  Users
