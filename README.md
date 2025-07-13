@@ -1,5 +1,3 @@
-<img width="1711" height="27" alt="image" src="https://github.com/user-attachments/assets/8f385b2b-f07f-456a-9bbc-eb223ae42525" /><img width="1212" height="81" alt="image" src="https://github.com/user-attachments/assets/2e10a945-94c4-4869-ad8f-c79b5dbe298a" /><img width="1028" height="81" alt="image" src="https://github.com/user-attachments/assets/045f7f5b-6012-4988-a61a-9e081d176845" /><img width="664" height="81" alt="image" src="https://github.com/user-attachments/assets/c017cc41-3558-487a-b42b-8768618ec6f6" /># VuCar - Vietnamese Car Market Price Insights
-
 ## Overview
 
 This assignment is a comprehensive solution designed to address the specific challenges faced by Vietnamese car buyers and sellers. Based on analysis of 317,636 car listings in Vietnam, this system provides data-driven insights to help users make informed decisions in the Vietnamese car market.
