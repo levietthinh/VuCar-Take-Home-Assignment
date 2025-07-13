@@ -29,7 +29,7 @@ This assignment is a comprehensive solution designed to address the specific cha
 - **Output**: The average price of that car.
 - **Value**: Helps buyers and sellers have a fair information about the price with 317K+ data points.
 
-### 3. Market Insights
+### 2. Market Insights
 - **Function**: Giving a general information about car market.
 - **Output**: Charts and numbers indicates the market share.
 - **Value**: Helps client have orientation-focused information to help them get information more easily.
